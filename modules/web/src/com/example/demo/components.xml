@@ -1,0 +1,6 @@
+<components xmlns="http://schemas.haulmont.com/cuba/components.xsd">
+    <component>
+        <name>richTextArea</name>
+        <class>com.example.demo.web.components.MyRichTextArea</class>
+    </component>
+</components>
